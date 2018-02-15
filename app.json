@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "number-picture-rn-demo",
-    "description": "A very interesting project.",
+    "description": "Basic demo of Number Picture visualizations in React Native (Expo) app.",
     "slug": "number-picture-rn-demo",
     "privacy": "public",
     "sdkVersion": "25.0.0",
@@ -16,6 +16,7 @@
     },
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/finnfiddle/number-picture-rn-demo"
   }
 }
